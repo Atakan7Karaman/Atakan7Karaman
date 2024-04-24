@@ -31,6 +31,10 @@ My ultimate goal is to contribute to the ever-evolving field of cybersecurity, l
 <img src="https://img.shields.io/badge/-CCD-000080?&style=for-the-badge&logoColor=white" />
 </div>
 
+## Projects
+- Detection Lab
+- SOC Automation Project
+
 ## Tools
 [Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
 
@@ -53,7 +57,3 @@ My ultimate goal is to contribute to the ever-evolving field of cybersecurity, l
     <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
     <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
 </div>
-
-## Projects
-- Detection Lab
-- SOC Automation Project
