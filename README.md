@@ -14,7 +14,7 @@ My ultimate goal is to contribute to the ever-evolving field of cybersecurity, l
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
+| Linux CLI + Managing Permissions          | <a href="https://github.com/Atakan7Karaman/Virtualization-Intro-to-Linux-CLI-">Virtualization Lab</a>|
 | Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
 | Security Automation with Shuffle SOAR         | SOC Automation Lab|
 | Incident Response Planning and Execution      | SOC Automation Lab|
@@ -32,7 +32,7 @@ My ultimate goal is to contribute to the ever-evolving field of cybersecurity, l
 </div>
 
 ## Projects
-- Detection Lab
+- <a href="https://github.com/Atakan7Karaman/Virtualization-Intro-to-Linux-CLI-">Virtualization Lab</a>
 - SOC Automation Project
 
 ## Tools
