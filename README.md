@@ -10,7 +10,6 @@ My ultimate goal is to contribute to the ever-evolving field of cybersecurity, l
 
 
 ## Skills
-[Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
@@ -22,7 +21,6 @@ My ultimate goal is to contribute to the ever-evolving field of cybersecurity, l
 | Scripting and Automation for Threat Mitigation | SOC Automation Lab|
 
 ## Certifications
-[Provide certifications that you have obtained. Use ChatGPT to help create the link - Remove this afterwards]]
 <div>
 <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
 <img src="https://img.shields.io/badge/-Network%2B-007ACC?&style=for-the-badge&logo=CompTIA&logoColor=white" />
@@ -36,7 +34,6 @@ My ultimate goal is to contribute to the ever-evolving field of cybersecurity, l
 - SOC Automation Project
 
 ## Tools
-[Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
 
 ### Network
 <div>
