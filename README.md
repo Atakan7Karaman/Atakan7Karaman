@@ -1,7 +1,7 @@
 # Hello, I'm Atakan
 <a href="https://www.linkedin.com/in/atakankaraman7"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-I'm a Master's student currently studying Management Information Systems, with a focus on cyber security at the University at Buffalo. 
+I'm a Master's student studying Management Information Systems, with a focus on cyber security at the University at Buffalo. 
 
 ## Objective
 Throughout my academic journey, I've been exploring the connection between technology and business, through a study of information systems management. Simultaneously, I'm undertaking an advanced degree in cybersecurity, where I've been focusing on learning the developing strategies that safeguard digital landscapes against ever-evolving cyber threats.
